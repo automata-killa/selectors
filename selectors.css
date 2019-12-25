@@ -56,7 +56,7 @@ button {
 [href$=".pdf"]:hover {
 background-color: black;
 transition: 0.3s;
-border-radius: 15px;
+border-radius: 5px;
 }
 p.child:first-child {
   background-color: black;
